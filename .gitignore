@@ -6,3 +6,8 @@ saved_models/weights.best.vgg16.hdf5
 .ipynb_checkpoints/
 bottleneck_features/DogVGG16Data.npz
 bottleneck_features/DogResnet50Data.npz
+model_weights/resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5
+saved_models/weights.best.Resnet50.hdf5
+saved_models/weights.best.Resnet50_augmented.hdf5
+saved_models/weights.best.VGG19.hdf5
+saved_models/weights.best.hint_model.hdf5
